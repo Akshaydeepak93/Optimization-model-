@@ -26,8 +26,12 @@ The feasible region is determined by these constraints and represents all possib
 
 This task demonstrates how mathematical modeling can be applied to real-world business problems. Linear Programming provides a structured approach to decision-making, enabling companies to utilize their limited resources efficiently. Instead of relying on guesswork, the company can use this method to make data-driven decisions that maximize profitability.
 
-output of the task:
-
-
 
 Overall, this problem highlights the importance of optimization techniques in operations management and production planning. It shows how businesses can improve efficiency, reduce waste, and increase profit by applying simple mathematical models. The concepts used in this task are widely applicable in industries such as manufacturing, logistics, finance, and supply chain management, making Linear Programming a valuable tool for solving practical problems.
+
+
+output of the task :
+
+<img width="911" height="687" alt="Image" src="https://github.com/user-attachments/assets/887f87d1-556d-4982-92ef-9b51b899d0b7" />
+
+<img width="1055" height="697" alt="Image" src="https://github.com/user-attachments/assets/b567ab42-e9be-41a0-93be-a201db211193" />
